@@ -1,4 +1,4 @@
-// program to print the product of first 10 odd numbers
+// program to print the product of first 5 odd numbers
 
 #include <stdio.h>
 
